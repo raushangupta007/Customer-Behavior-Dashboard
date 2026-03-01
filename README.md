@@ -14,7 +14,7 @@ The Customer Behavior Dashboard provides insights into:
 - Average purchase value analysis
 - Customer review ratings
 - Subscription adoption trends
-- Revenue and sales distribution by category
+- Revenue and sales distribution by category 
 - Age-group based purchasing behavior
 - Shipping preference analysis
 
